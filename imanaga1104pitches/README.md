@@ -1,4 +1,4 @@
-
+# 今永昇太11/04全投球
 
 ```python
 import pandas as pd
